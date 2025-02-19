@@ -64,12 +64,3 @@ A demo mobile app built with React Native, showcasing a simple but fully functio
 - Expo
 - JavaScript
 
----
-
-## Contact
-
-Feel free to reach out for any questions or collaboration opportunities:
-
-- Email: zitaciao@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/zitavan)
-
